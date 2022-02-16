@@ -693,3 +693,7 @@
 .markdown-body hr {
   border-bottom-color: #eee;
 }
+
+.markdown-body em {      
+  float: right;
+}
