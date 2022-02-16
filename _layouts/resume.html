@@ -59,14 +59,15 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.gtag_id }}"></script>
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
 
-      gtag('config', '{{ site.gtag_id }}');
+        gtag('config', '{{ site.gtag_id }}');
     </script>
     {% endif %}
 </head>
+
 <body>
     <article class="markdown-body">
         <section class="summery">
@@ -81,11 +82,8 @@
             {{ my_include | markdownify }}
         </section>
         <section class="skill">
-            <h1> Skill </h1>
-            <div>
-                {% capture my_include %}{% include section/skill.md %}{% endcapture %}
-                {{ my_include | markdownify }}
-            </div>
+            {% capture my_include %}{% include section/skill.md %}{% endcapture %}
+            {{ my_include | markdownify }}
         </section>
         <section class="education">
             {% capture my_include %}{% include section/education.md %}{% endcapture %}
