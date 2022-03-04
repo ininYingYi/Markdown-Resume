@@ -8,13 +8,13 @@
 - C#, Golang, Python, JavaScript, C/C++
 
 ### 雲端服務
-- 熟悉透過kubectl進行Kubernetes操作指令
-- 熟悉GKE node-pool配合ingress實現水平擴展
-- 熟悉透過Google Firebase實作serverless應用程式
+- 熟悉透過 kubectl 進行 Kubernetes 操作指令
+- 熟悉 GKE node-pool 配合 ingress 實現水平擴展
+- 熟悉透過 Google Firebase 實作 serverless 應用程式
   
 ### 開發效率
-- 熟悉svn、git版本管控軟體
-- 熟悉使用jenkins自動部屬
+- 熟悉 svn、git 版本管控軟體
+- 熟悉使用 Jenkins 自動部屬
 
 ### 網頁開發
 國立中央大學大一生活資訊網程式副組長 **2013, 2014**
