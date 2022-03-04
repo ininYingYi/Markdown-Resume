@@ -6,8 +6,8 @@
 > - 遊戲開發
 >   - 使用 Unity+ Photon PUN 服務開發客戶端遊戲
 >   - 使用 Unity Addressable Asset System 開發資源包熱更新功能
->   - 實作 Unity串接 Firebase 資料庫、登入、Cloud Functions
->   - 串接 Google Play store 和 Apple store 付費(單次消耗品項、訂閱)至 Firebase 
+>   - 串接 Firebase 資料庫、登入、Cloud Functions
+>   - 串接 Google Play store 和 Apple store 付費(單次消耗品項、訂閱) 
 > - 伺服器開發
 >   - 使用 Go 語言開發基於開源專案 [Agones](https://agones.dev/site/) 的麻將遊戲伺服器
 >   - 使用 Google Kubernetes Engine 架設可水平自動擴展、熱更新遊戲伺服器和後台網站
