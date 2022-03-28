@@ -1,22 +1,16 @@
-# 專案
-
-### 大學專題 *2013 ~ 2014*
-> 指導教授: 王家慶 教授 
-- 利用多層架構之音樂情緒辨識系統: 此系統利用兩層架構去進行音樂情緒辨識，分別為稀疏代表 (sparse representation)和支援向量機 (Support Vector Machine)
-- 辨識系統是利用 Matlab 實作，另外也使用 Java 去實作應用介面讓使用者選擇聆聽情緒接近的音樂
-
-
-### 先進製造*2016*
-> 指導教授: 徐正炘 教授  
--  此計劃目的在於建立一套智慧工廠管理系統。此系統能夠讓工廠管理員更了解機器的狀態，提供故障提醒、操作不當防範…等功能。
--  整套系統我結合雲端服務 (Amazon Web Service)、視覺化的網頁介面、雲端資料庫 (HBase)、Arduino。
-
-### 遊戲化群眾外包 *2017*
-> 指導教授: 徐正炘 教授 
--  此計劃目的是利用手機遊戲去吸引民眾去城市中各地收集多媒體資料
--  為了鼓勵民眾的參與，我使用Unity結合擴增實境 (Augmented Reality) 開發手機端的應用程式
-
-
-### 個人獨立遊戲開發 (未上架) *2020. Aug ~ 2021.Apr*
+# Projects
+### Indie games development (Not published) *2020 Aug. ~ 2021 Apr.*
 >
--  撰寫多人共同闖關的單機派對遊戲，從中學習 Unity 的一些新技術像是 DOTS 架構、Unity New Input System、Addressable Asset System，加強撰寫客製化編輯器的能力。
+-  Improve Unity's development ability by developing a party game similar to the Nine Parchments and the Fat Princess Adventures. Major used technology like Unity DOTS, New Input System, Addressable Asset System, custom editor.
+
+### Gamified Crowdsourcing *2017*
+> Advisor: Dr. Cheng-Hsin Hsu
+- The goal of this project is to develop a mobile application that attract citizen helping collect multimedia data in smart city. To encourage user engagement, I adopt Augmented Reality (AR) to gamify the crowdsourcing application.
+
+### Advance Manufacturing *2016*
+> Advisor: Dr. Cheng-Hsin Hsu  
+- This project is aimed at developing a smart and intelligent manufacturing system. I built a system which allows factory manager to monitor the working state of the machine. The whole system contains cloud services (Amazon Web Service), Web interface, cloud database (HBase), and Arduino as light weight client.
+
+### Undergraduate Project *2013 ~ 2014*
+> Advisor: Dr. Jia-Ching Wang
+- Music Genre Classification Using Hierarchical System: I built a system to classify the music genre. The system consists of sparse representation and support vector machine (SVM). The system is written in Matlab. Also, we implemented an application using JAVA that allows users listening the music with similar music genre.

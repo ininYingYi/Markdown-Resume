@@ -89,6 +89,10 @@
             {% capture my_include %}{% include section/education.md %}{% endcapture %}
             {{ my_include | markdownify }}
         </section>
+        <section class="publication">
+            {% capture my_include %}{% include section/Publication.md %}{% endcapture %}
+            {{ my_include | markdownify }}
+        </section>
         <div class="footer">
             <strong>Powered</strong> by
             ❤️<a href="https://github.com/sudoliyang/Markdown-Resume">Markdown-Resum </a>

@@ -1,9 +1,10 @@
-# 學歷
+# Education
 
-### 碩士 - 國立清華大學資訊工程所 *2015.Sep~2017.Jun*
-  - 指導教授: 徐正炘 教授
-  - 研究領域: 行動應用, 多媒體系統
+### M.S., Department of Computer Science, National Tsing Hua University, Hsinchu, Taiwan *2015 Sep. ~ 2017 Jun.*
+  - Advisor: Dr. Cheng-Hsin Hsu
+  - Research Fields: Mobile Applications, Multimedia Systems
   - GPA: 3.87/4.3
 
-### 學士 - 國立中央大學資訊工程學系 *2011.Sep~2015.Jul*
+
+### B.S, Department of Computer Science, National Central University, Taoyuan, Taiwan *2011 Sep. ~ 2015 Jul.*
   - GPA: 3.48/4.3
