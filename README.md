@@ -27,6 +27,7 @@ $ git clone <forked url>
 ```bash
 $ gem install jekyll
 ```
+offical document: https://jekyllrb.com/docs/installation/
 
 讓 Jekyll live 的 rebuild 我們的履歷，瀏覽器打開 http://127.0.0.1:4000 查看效果
 ```bash

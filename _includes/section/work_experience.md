@@ -1,5 +1,12 @@
 # 工作經歷
 
+### **[Amber Studio](https://amberstudio.com/)** *2022 Apr ~ 2023 Mar*
+> **Unity Engineer**
+> - Maintained [Runble Hero](https://play.google.com/store/apps/details?id=com.lorraine.rumbleleague1&hl=en_US&gl=US) which is a mobile app developed by Amber.
+> - Developed a prototype for a project in Amber's Heroes of Innova. The project won the first of ten teams.
+> - Developed an internal project.
+>   - Implemented the unit test feature using Unity Test Framework.
+
 ### **欣福益行銷投資股份有限公司** *2021 Mar ~ 2022 Jan*
 > 這是一個2021年新成立的小團隊，主要開發休閒麻將手機遊戲[方塊湊一桌](https://www.facebook.com/CubeMahjong/)，從無到上架的開發經驗，<br/>
 遊戲於2021年11月上線，我主要負責麻將遊戲部分
