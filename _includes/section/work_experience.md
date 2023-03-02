@@ -1,5 +1,12 @@
 # Work Experience
 
+### **[Amber Studio](https://amberstudio.com/)** *2022 Apr ~ 2023 Mar*
+> **Unity Engineer**
+> - Maintained [Runble Hero](https://play.google.com/store/apps/details?id=com.lorraine.rumbleleague1&hl=en_US&gl=US) which is a mobile app developed by Amber.
+> - Developed a prototype for a project in Amber's Heroes of Innova. The project won the first of ten teams.
+> - Developed an internal project.
+>   - Implemented the unit test feature using Unity Test Framework.
+
 ### **Xinfuyi Marketing investment co., ltd.** *2021 May ~ 2022 Jan.*
 > This is a startup team started in 2011 May. We developed a mobile game which is [Cube Mahjong](https://www.facebook.com/CubeMahjong/).<br/>
 I was responsible for developing the gameplay of MahJong.
