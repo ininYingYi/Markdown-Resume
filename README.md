@@ -64,8 +64,9 @@ $ jekyll build
 $ ./bin/deploy 
 ```
 
+## Generate PDF
+Use [https://wkhtmltopdf.org/](https://wkhtmltopdf.org/)
+
 ## Thanks 
 
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css/blob/gh-pages/github-markdown.css)
-
-
