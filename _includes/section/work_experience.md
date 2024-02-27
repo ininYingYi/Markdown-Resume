@@ -2,7 +2,7 @@
 
 ### **[Amber Studio](https://amberstudio.com/)** *2022 Apr ~ 2023 Mar*
 > **Unity Engineer**
-> - Maintained [Rumble Heroes](https://play.google.com/store/apps/details?id=com.lorraine.rumbleleague1) which is a mobile app developed by Amber.
+> - Maintained **Rumble Heroes** which is a mobile game developed by Amber.
 > - Developed a prototype for a project in Amber's Heroes of Innova. The project won the first of ten teams.
 > - Developed an internal project.
 >   - Implemented the unit test feature using Unity Test Framework.
