@@ -1,6 +1,6 @@
 # 工作經歷
 
-### **[Amber Studio](https://amberstudio.com/)** *2022 Apr ~ 2023 Mar*
+### **[Amber Studio 虎魄股份有限公司](https://amberstudio.com/)** *2022 Apr ~ 2023 Mar*
 > **Unity Engineer**
 > - 維護一款Amber開發的手機遊戲 **Rumble Heroes**
 > - 在公司內部的Amber's Heroes of Innova活動內實作一款節奏遊戲並獲得第一名
@@ -11,7 +11,7 @@
 > 這是一個2021年新成立的小團隊，主要開發休閒麻將手機遊戲[方塊湊一桌](https://www.facebook.com/CubeMahjong/)，從無到上架的開發經驗，<br/>
 遊戲於2021年11月上線，我主要負責麻將遊戲部分
 > - 遊戲開發
->   - 使用 Unity+ Photon PUN 服務開發客戶端遊戲
+>   - 使用 Unity + Photon PUN 服務開發客戶端遊戲
 >   - 使用 Unity Addressable Asset System 開發資源包熱更新功能
 >   - 串接 Firebase 資料庫、登入、Cloud Functions
 >   - 串接 Google Play store 和 Apple store 付費(單次消耗品項、訂閱) 

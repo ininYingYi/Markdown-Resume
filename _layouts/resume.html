@@ -73,6 +73,10 @@
         <section class="summery">
             {{ content }}
         </section>
+        <section class="education">
+            {% capture my_include %}{% include section/education.md %}{% endcapture %}
+            {{ my_include | markdownify }}
+        </section>
         <section class="work_experience">
             {% capture my_include %}{% include section/work_experience.md %}{% endcapture %}
             {{ my_include | markdownify }}
@@ -85,10 +89,7 @@
             {% capture my_include %}{% include section/skill.md %}{% endcapture %}
             {{ my_include | markdownify }}
         </section>
-        <section class="education">
-            {% capture my_include %}{% include section/education.md %}{% endcapture %}
-            {{ my_include | markdownify }}
-        </section>
+
         <div class="footer">
             <strong>Powered</strong> by
             ❤️<a href="https://github.com/sudoliyang/Markdown-Resume">Markdown-Resum </a>

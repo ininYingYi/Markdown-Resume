@@ -66,6 +66,9 @@ $ ./bin/deploy
 
 ## Generate PDF
 Use [https://wkhtmltopdf.org/](https://wkhtmltopdf.org/)
+```
+wkhtmltopdf _site/index.html CV-Chinese.html
+```
 
 ## Thanks 
 
