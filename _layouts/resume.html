@@ -89,6 +89,10 @@
             {% capture my_include %}{% include section/skill.md %}{% endcapture %}
             {{ my_include | markdownify }}
         </section>
+        <section class="publication">
+            {% capture my_include %}{% include section/publication.md %}{% endcapture %}
+            {{ my_include | markdownify }}
+        </section>
 
         <div class="footer">
             <strong>Powered</strong> by
