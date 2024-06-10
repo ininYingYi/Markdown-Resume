@@ -81,12 +81,12 @@
             {% capture my_include %}{% include section/work_experience.md %}{% endcapture %}
             {{ my_include | markdownify }}
         </section>
-        <section class="project">
-            {% capture my_include %}{% include section/project.md %}{% endcapture %}
-            {{ my_include | markdownify }}
-        </section>
         <section class="skill">
             {% capture my_include %}{% include section/skill.md %}{% endcapture %}
+            {{ my_include | markdownify }}
+        </section>
+        <section class="project">
+            {% capture my_include %}{% include section/project.md %}{% endcapture %}
             {{ my_include | markdownify }}
         </section>
         <section class="publication">
