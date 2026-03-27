@@ -68,7 +68,7 @@ wkhtmltopdf --enable-local-file-access _site/index.html CV-Chinese.pdf
 
 ## Deploy to Github Page
 
-Push到master時會自動部署
+Push到release時會自動部署
 
 ## Thanks
 
