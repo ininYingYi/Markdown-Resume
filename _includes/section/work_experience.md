@@ -1,6 +1,6 @@
 # Work Experience
 
-### **Phrozen Technology Co., Ltd.** _2024 Aug ~ Now_
+### **[Phrozen Technology Co., Ltd.](https://phrozen3d.com/)** _2024 Aug ~ Now_
 
 > **Fullstack Engineer**
 >
