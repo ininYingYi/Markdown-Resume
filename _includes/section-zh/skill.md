@@ -1,20 +1,20 @@
-# Skills
+# 技能
 
-### Game Development
+### 遊戲開發
 
 - Unity, Unreal Engine
 
-### Web & Mobile Development
+### 網頁與APP開發
 
-- Frontend: React Native, NextJS
-- Backend: NestJS, Golang, Firebase
+- 前端: React Native, NextJS
+- 後端: NestJS, Golang, Firebase
 
-### Cloud Services
+### 雲端服務
 
 - AWS: EKS, CloudFront, S3, Lambda, SES
 - GCP: GKE, Compute Engine, Cloud Storage, Spanner
 
-### Programming Languages
+### 程式語言
 
 - C#, TypeScript, Golang, C/C++, Python
 
