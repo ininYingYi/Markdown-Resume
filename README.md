@@ -50,25 +50,12 @@ Configuration file: /Users/liyang/Markdown-Resume/_config.yml
 
 > 按 Control + C 可以退出這個程式
 
-## Deploy to Github Page
-
-設定 google analytics track id, 編輯 `_config.yml`
-
-```
-gtag_id: <gtag_id>
-```
+## Build
 
 用下列指令將靜態的檔案 build 到 `_site`
 
 ```bash
 $ jekyll build
-```
-
-靜態的檔案 build 好之後我們要將他部署在 GitHub Page 上
-透過下列指令會自動幫你把 `_site` 資料夾放進 remote repo `origin` 的 `gh-pages` branch
-
-```bash
-$ ./bin/deploy
 ```
 
 ## Generate PDF
@@ -78,6 +65,10 @@ Use [https://wkhtmltopdf.org/](https://wkhtmltopdf.org/)
 ```
 wkhtmltopdf --enable-local-file-access _site/index.html CV-Chinese.pdf
 ```
+
+## Deploy to Github Page
+
+Push到master時會自動部署
 
 ## Thanks
 
