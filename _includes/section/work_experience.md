@@ -1,36 +1,32 @@
 # Work Experience
 
-### **[Amber Studio](https://amberstudio.com/)** *2022 Apr ~ 2023 Mar*
+### **Phrozen Technology Co., Ltd.** _2024 Aug ~ Now_
+
+> **Fullstack Engineer**
+>
+> - Developed PhrozenGo mobile application using React Native
+> - Built backend services with NestJS and admin dashboard with NextJS
+> - Deployed company services on AWS EKS with CI/CD via GitHub Actions
+
+### **[Amber Studio](https://amberstudio.com/)** _2022 Apr ~ 2023 Mar_
+
 > **Unity Engineer**
-> - Maintained **Rumble Heroes** which is a mobile game developed by Amber.
-> - Developed a prototype for a project in Amber's Heroes of Innova. The project won the first of ten teams.
-> - Developed an internal project.
->   - Implemented the unit test feature using Unity Test Framework.
+>
+> - Maintained **Rumble Heroes**, a mobile game developed by Amber
+> - Developed a rhythm game prototype in Amber's Heroes of Innova, winning 1st place among 10 teams
+> - Implemented unit testing using Unity Test Framework
 
-### **Xinfuyi Marketing investment co., ltd.** *2021 May ~ 2022 Jan.*
-> This is a startup team started in 2011 May. We developed a mobile game which is [Cube Mahjong](https://www.facebook.com/CubeMahjong/).<br/>
-I was responsible for developing the gameplay of MahJong.
-> - Unity Client
->   - Developed game with Photon PUN, Addressable Asset System, 
->   - Integrated with Firebase services includes database, login, cloud function.
->   - Integrated payment with Google Play Store and Apple Store.
-> - Server-side 
->   - Developed the MahJong game server with scalability, reliability, and availability on Kubernetes using [Agones](https://agones.dev/site/)
->   - Hosted game server and backend website on Google Kubernetes Engine.
-> - CI/CD 
->   - Accomplished continuous integration with Jenkins.
+### **Xinfuyi Marketing Investment Co., Ltd.** _2021 Mar ~ 2022 Jan_
 
-### **International Games System CO., LTD.**  *2017 Sep. ~ 2020 Jul.*
-> **Senior software engineer**  
-> I developed and maintained the mobile game [Goodluck777](https://www.goodluck777.com/). I developed more than ten games with different varieties from slot games, card games, Roulette, Dice.
-> - Unity Client
->   - Familier with NGUI and UGUI
->   - Wrote native plugins with Java and Objective-C
->   - Implemented visual effects with Unity Shader
->   - Refactored the slot machine module and improved the testing flow.
-> - Server-side 
->   - Implemented the probability of slot games using Python.
-> - CI/CD
->   - Introduced and deployed Jenkins to refine the workflow.
-> - Project Management
->   - I got a promotion to client-side team leader at the end of 2019. Responsible for scheduling the products and steering the engineers.
+> Developed [Cube Mahjong](https://www.facebook.com/CubeMahjong/), a casual mobile game launched in Nov 2021
+>
+> - Built Unity client with Photon PUN, integrated Firebase and Google/Apple payment systems
+> - Developed Mahjong game server using Go + Agones, deployed on GKE with auto-scaling
+
+### **International Games System Co., Ltd.** _2017 Sep ~ 2020 Jul_
+
+> **Senior Software Engineer**
+>
+> - Developed mobile game [Goodluck777](https://www.goodluck777.com/), created 10+ mini-games (slots, cards, fish games, etc.)
+> - Implemented visual effects with Unity Shader, wrote slot machine server logic in Python
+> - Refactored slot machine module, introduced Jenkins CI/CD, promoted to client team leader in 2019

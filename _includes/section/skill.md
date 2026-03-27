@@ -1,16 +1,23 @@
 # Skills
 
-### Game development
-- Unity
-- Cocos2d-x
+### Game Development
 
-### Programing language
-- C#, Golang,  C/C++, Python, JavaScript, Java, Html, CSS
+- Unity, Unreal Engine
 
-### Cloud service
-- Google Kubernetes Engine
-- Google Firebase
-  
-### CI/CD
-- svn, git
-- Jenkins
+### Web & Mobile Development
+
+- Frontend: React Native, NextJS
+- Backend: NestJS, Golang, Firebase
+
+### Cloud Services
+
+- AWS: EKS, CloudFront, S3, Lambda, SES
+- GCP: GKE, Compute Engine, Cloud Storage, Spanner
+
+### Programming Languages
+
+- C#, TypeScript, Golang, C/C++, Python
+
+### DevOps
+
+- Git, GitHub Actions, Jenkins, Kubernetes
