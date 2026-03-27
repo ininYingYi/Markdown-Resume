@@ -1,18 +1,23 @@
 # 技能
 
 ### 遊戲開發
-- Unity, Unreal, Cocos2d-x
 
-### 雲端開發
-- GCP各項服務，包括GKE,Computer Engine,Cloud Storage, Spanner
+- Unity, Unreal Engine
 
-### 網頁開發
-- 使用Laravel、Yii framework開發2013&2014中央大學大一生活資訊, 擔任副組長
-- 工研院論文資料庫開發
+### 網頁與APP開發
+
+- 前端: React Native, NextJS
+- 後端: NestJS, Golang, Firebase
+
+### 雲端服務
+
+- AWS: EKS, CloudFront, S3, Lambda, SES
+- GCP: GKE, Compute Engine, Cloud Storage, Spanner
 
 ### 程式語言
-- C#, C/C++, Golang, JavaScript, Html, CSS, PHP, Python, Java
-  
-### 專案開發
-- 熟悉 svn、git 版本管控軟體
-- 熟悉使用 Jenkins 自動部屬
+
+- C#, TypeScript, Golang, C/C++, Python
+
+### DevOps
+
+- Git, GitHub Actions, Jenkins, Kubernetes
